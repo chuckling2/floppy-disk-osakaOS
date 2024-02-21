@@ -1,3 +1,7 @@
+# milestone
+- [x] cutting off 11mb of the iso size just by compiling on my machine
+- [x] cutting off 3mb using --compress=xz
+
 # osakaOS v1.0
 ![](cube.gif)
 
