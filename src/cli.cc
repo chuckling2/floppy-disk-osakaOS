@@ -10,7 +10,7 @@ using namespace os::drivers;
 using namespace os::common;
 using namespace os::filesystem;
 
-//kernel.cc functions used for everything
+//kernel.cc functions used for everything github 2
 void putchar(uint8_t, uint8_t, uint8_t, uint8_t, uint8_t);
 void printfTUI(uint8_t, uint8_t, uint8_t, uint8_t, uint8_t, uint8_t, bool);
 void printf(char*);
